@@ -49,12 +49,15 @@ Hi, I'm [David Ismail](https://sahabatdavid.github.io/), a Full Stack Developer 
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sahabatdavid&show_icons=true&theme=algolia" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahabatdavid&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
 
 <details>
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahabatdavid&show_icons=true&theme=gotham" alt="sahabatdavid" />
-
+    <summary>Coding Statistics</summary> 
+    <p align="center">
+        <img src="https://wakatime.com/share/@davidismail/d7dd277c-0bc3-496f-8611-fb8b2dc57741.svg" width="100%" height="400"/>
+    </p>
 </details>
 
 
