@@ -92,8 +92,7 @@ Hi, I'm [David Ismail](https://sahabatdavid.github.io/), a Full Stack Developer 
 <details>
     <summary>Coding Statistics</summary> 
     <p align="center">
-        <img style="float: left;" src="https://wakatime.com/share/@davidismail/8ce3a054-e7a1-49ed-8998-4f1bbc8691e8.svg" width="30%" height="400"/>
-        <img style="float: right;" src="https://wakatime.com/share/@davidismail/683bdf40-4911-4066-a759-ec13a85c56ad.svg" width="700%" height="400"/>
+        <img style="float: left;" src="https://wakatime.com/share/@davidismail/8ce3a054-e7a1-49ed-8998-4f1bbc8691e8.svg" width="30%" height="400"/>&nbsp;<img style="float: right;" src="https://wakatime.com/share/@davidismail/683bdf40-4911-4066-a759-ec13a85c56ad.svg" width="700%" height="400"/>
     </p>
 </details>
 
