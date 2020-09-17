@@ -24,7 +24,7 @@ Hi, I'm [David Ismail](https://sahabatdavid.github.io/), a Full Stack Developer 
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning PHP and Laravel; 
-- 💬 Ask me about anything, I am happy to help if I can :);
+- 💬 Ask me about anything, I am happy to help if I can :smile:;
 - 📫 How to reach me: [@davidismail](https://t.me/davidismail);
 - 📝 [Resume](https:github.com/sahabatdavid)
 
